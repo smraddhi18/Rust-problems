@@ -1,0 +1,99 @@
+<mxfile host="app.diagrams.net" modified="2024-04-03T20:32:00.905Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:124.0) Gecko/20100101 Firefox/124.0" etag="oE3fRzudDFFexGd9J-kv" version="23.1.1" type="device">
+  <diagram name="Page-1" id="b520641d-4fe3-3701-9064-5fc419738815">
+    <mxGraphModel dx="1278" dy="647" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="d8bPAkiRef2venazfYWC-9" value="Access Control Module" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="12" y="230" width="160" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="d8bPAkiRef2venazfYWC-10" value="Add Roles, Cases" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="d8bPAkiRef2venazfYWC-9" vertex="1">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="d8bPAkiRef2venazfYWC-11" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="d8bPAkiRef2venazfYWC-9" vertex="1">
+          <mxGeometry y="52" width="160" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="d8bPAkiRef2venazfYWC-12" value="Case details" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="d8bPAkiRef2venazfYWC-9" vertex="1">
+          <mxGeometry y="60" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="d8bPAkiRef2venazfYWC-13" value="API Module for IPFS Integration" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="230" y="101" width="190" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="d8bPAkiRef2venazfYWC-14" value="Add FIle, report" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="d8bPAkiRef2venazfYWC-13" vertex="1">
+          <mxGeometry y="26" width="190" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="d8bPAkiRef2venazfYWC-15" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="d8bPAkiRef2venazfYWC-13" vertex="1">
+          <mxGeometry y="52" width="190" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="d8bPAkiRef2venazfYWC-16" value="Dowload file" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="d8bPAkiRef2venazfYWC-13" vertex="1">
+          <mxGeometry y="60" width="190" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="d8bPAkiRef2venazfYWC-28" value="Blockchain Integration Module" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="225" y="339" width="180" height="86" as="geometry" />
+        </mxCell>
+        <mxCell id="d8bPAkiRef2venazfYWC-29" value="View report" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="d8bPAkiRef2venazfYWC-28" vertex="1">
+          <mxGeometry y="26" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="d8bPAkiRef2venazfYWC-30" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" parent="d8bPAkiRef2venazfYWC-28" vertex="1">
+          <mxGeometry y="52" width="180" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="d8bPAkiRef2venazfYWC-31" value="Chain of custody" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;whiteSpace=wrap;html=1;" parent="d8bPAkiRef2venazfYWC-28" vertex="1">
+          <mxGeometry y="60" width="180" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="x0RhW8lPd4YtzjjRQPQ_-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="d8bPAkiRef2venazfYWC-14" target="d8bPAkiRef2venazfYWC-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x0RhW8lPd4YtzjjRQPQ_-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.456;entryY=1.08;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="d8bPAkiRef2venazfYWC-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="803.5" y="316" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="800" y="316" />
+              <mxPoint x="800" y="480" />
+              <mxPoint x="85" y="480" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x0RhW8lPd4YtzjjRQPQ_-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="90" width="190" height="226" as="geometry" />
+        </mxCell>
+        <mxCell id="x0RhW8lPd4YtzjjRQPQ_-13" value="Evidence Collection" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="130" width="170" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="x0RhW8lPd4YtzjjRQPQ_-17" value="Evidence Analysis" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="192" width="170" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="x0RhW8lPd4YtzjjRQPQ_-19" value="Chain of Custody" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="260" width="170" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="x0RhW8lPd4YtzjjRQPQ_-20" value="&lt;b&gt;Investigation Process Module&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="730" y="90" width="150" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x0RhW8lPd4YtzjjRQPQ_-27" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.558;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="d8bPAkiRef2venazfYWC-13" target="d8bPAkiRef2venazfYWC-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="360" y="330" as="sourcePoint" />
+            <mxPoint x="410" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x0RhW8lPd4YtzjjRQPQ_-28" value="&lt;b&gt;Transfer of IPFS hashes&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="225" y="244" width="105" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x0RhW8lPd4YtzjjRQPQ_-29" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;entryX=-0.003;entryY=0.487;entryDx=0;entryDy=0;exitX=1;exitY=0.564;exitDx=0;exitDy=0;entryPerimeter=0;exitPerimeter=0;" edge="1" parent="1" source="d8bPAkiRef2venazfYWC-29" target="x0RhW8lPd4YtzjjRQPQ_-12">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="440" as="sourcePoint" />
+            <mxPoint x="490" y="390" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="560" y="380" />
+              <mxPoint x="560" y="200" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x0RhW8lPd4YtzjjRQPQ_-31" value="&lt;b&gt;Storing Evidence transaction&lt;br&gt;&amp;nbsp;on blockchain&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="405" y="385" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="x0RhW8lPd4YtzjjRQPQ_-32" value="&lt;b&gt;Chain of custody&lt;br&gt;&amp;nbsp;Management&lt;br&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="570" y="160" width="120" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
